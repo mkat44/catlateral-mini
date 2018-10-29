@@ -1,0 +1,25 @@
+{
+  "name": "catlateral_package",
+  "version": "1.0.0",
+  "description": "A package for the Catlateral minigame.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkat44/catlateral-mini.git"
+  },
+  "author": "Mary Carr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkat44/catlateral-mini/issues"
+  },
+  "homepage": "https://github.com/mkat44/catlateral-mini#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
