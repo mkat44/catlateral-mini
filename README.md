@@ -7,6 +7,9 @@ Deployed at: http://catlateral-mini.herokuapp.com/
 # Flow
 Upon loading the page, a user can choose to destroy items, place them back on the shelves to destroy again later, and even add their own items to destroy in true Catlateral Damage style. 
 
+# Organization
+The application is organized by making an API call to the SQL database to draw items onto the webpage. Dynamic elements are rendered using Handlebars. A user may add objects to the SQL database which then appear on the screen, ready to be destroyed.
+
 # Challenges
 Handlebars was a bit of a stretch to learn. It's always fun to learn new skills, though!
 
