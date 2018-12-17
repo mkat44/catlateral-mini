@@ -2,6 +2,8 @@
 Node, Express, SQL, &amp; Handlebars
 Deployed at: http://catlateral-mini.herokuapp.com/
 
+<img src="https://i.imgur.com/poHB10d.png" alt="Catlateral Damage: Mini Game">
+
 # Flow
 Upon loading the page, a user can choose to destroy items, place them back on the shelves to destroy again later, and even add their own items to destroy in true Catlateral Damage style. 
 
